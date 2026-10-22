@@ -1,0 +1,7 @@
+id,kind,arrival,track,size,deadline
+M1,multimedia,0,80,64,30
+D1,database,0,60,64,
+M2,multimedia,2,20,64,45
+D2,database,5,30,64,
+M3,multimedia,12,90,64,50
+D3,database,20,120,64,

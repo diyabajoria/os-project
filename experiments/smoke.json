@@ -1,0 +1,9 @@
+{
+  "scenarios": ["Balanced", "Multimedia bursts"],
+  "loads": [0.08, 0.2],
+  "seeds": [1000, 1001],
+  "algorithms": ["FCFS", "LOOK", "Fixed Hybrid", "AHDS", "Ablation: no dispatch aging"],
+  "workload": {"count": 40},
+  "bootstrap_resamples": 100,
+  "sensitivity": {"batch_size": [5], "urgency": [10], "aging": [50], "pressure": [0.6]}
+}
