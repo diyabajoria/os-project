@@ -59,3 +59,8 @@ At B=5 the controller chooses M M D D D for database protection before consideri
 - `tests/`: arithmetic, policy semantics, generator/export and UI checks.
 
 See [algorithm specification](docs/ALGORITHMS.md), [metric definitions](docs/METRICS.md), and [design limitations](docs/LIMITATIONS.md). APEX is the conceptual base paper, not a reproduced baseline: https://doi.org/10.1007/s00530-005-0189-0. No local research paper was available. This project follows the supplied specification. See [verification record](docs/VERIFICATION.md) for checks performed.
+
+## Contributors
+
+- Diya Bajoria
+- Tarshneet Kaur Duggal
